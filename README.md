@@ -1,3 +1,4 @@
+Moved to the [Dracula repository](https://github.com/dracula/mantine)  
 # Dracula for [Mantine](https://mantine.dev/)
 
 > A dark theme for [Mantine](https://mantine.dev/).
